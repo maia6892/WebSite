@@ -175,6 +175,7 @@ body {
 .gradient {
   background: linear-gradient(90deg, #fe6783 1.9%, #ffbf84 97.1%);
   background-clip: text;
+  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   transform: translateY(-35px);
 }
